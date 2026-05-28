@@ -9,7 +9,9 @@ Air Quality Analysis for Health and Environmental Protection
 - [John Ian Buñag](https://github.com/ianbunag)
 
 ## Backlog
-https://github.com/users/ianbunag/projects/2/views/1
+<a href="https://github.com/users/ianbunag/projects/2/views/1"><img width="1440" height="684" alt="Screenshot 2026-05-27 at 17 56 54" src="https://github.com/user-attachments/assets/4af64775-7e64-437a-8e2c-4628723455be" /></a>
+
+<a href="https://github.com/users/ianbunag/projects/2/views/1">Go to backlog</a>
 
 ## Process flow
 
